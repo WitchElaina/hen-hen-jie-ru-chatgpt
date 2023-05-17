@@ -1,0 +1,11 @@
+# 环境变量配置
+.env
+
+# nodejs
+node_modules
+
+# others
+.*
+
+# whitelist
+!.gitignore
